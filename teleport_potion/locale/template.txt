@@ -1,0 +1,9 @@
+# textdomain: teleport_potion
+
+Teleport Potion (place and right-click to enchant location)=
+Enter teleport coords (e.g. 200,20,-200)=
+Right-click to enchant teleport location=
+Teleport Pad (place and right-click to enchant location)=
+Enter teleport coords (e.g. 200,20,-200,Home)=
+Pad Active (@1,@2,@3)=
+Teleport Pad coordinates failed!=

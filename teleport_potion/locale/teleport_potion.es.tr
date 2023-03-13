@@ -1,0 +1,11 @@
+# textdomain: teleport_potion
+
+Teleport Potion (place and right-click to enchant location)=Poción de teletransporte (colocar y hacer clic derecho para encantar la ubicación)
+Enter teleport coords (e.g. 200,20,-200)=Inserta las coordenadas del teletransporte (Por ejemplo, 200,20, -200)
+Right-click to enchant teleport location=Haga clic derecho para encantar la ubicación de teletransporte
+Potion failed!=¡Poción fallida!
+Teleport Pad (place and right-click to enchant location)=Teleport Pad (Colocalo y haz clic derecho para encantar la ubicación)
+Enter teleport coords (e.g. 200,20,-200,Home)=Inserte las coordenadas del teletransporte (por ejemplo, 200,20, -200, Inicio)
+Teleport to @1=Teletransportarse a @1
+Pad Active (@1,@2,@3)=Pad activo
+Teleport Pad coordinates failed!=¡Coordenadas del Teleport Pad erroneas!

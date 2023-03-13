@@ -1,0 +1,11 @@
+# textdomain: teleport_potion
+
+Teleport Potion (place and right-click to enchant location)=Teleportationstrank (platzieren und rechtsklicken,\n um Standort zu verzaubern)
+Enter teleport coords (e.g. 200,20,-200)=Koordinaten eingeben (z.B. 200,20,-200)
+Right-click to enchant teleport location=Rechtsklick um Teleportationsort zu verzaubern
+Potion failed!=Trank misslungen!
+Teleport Pad (place and right-click to enchant location)=Teleportationsfeld (platzieren und rechtsklicken,\n um Standort zu verzaubern)
+Enter teleport coords (e.g. 200,20,-200,Home)=Koordinaten eingeben (z.B. 200,20,-200,Haus)
+Teleport to @1=Teleportiere nach @1
+Pad Active (@1,@2,@3)=Feld aktiv (@1,@2,@3)
+Teleport Pad coordinates failed!=Teleportationsfeldkoordinaten fehlgeschlagen!

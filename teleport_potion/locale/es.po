@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 08:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid "Teleport Potion (place and right-click to enchant location)"
+msgstr "Poción de teletransporte (colocar y hacer clic derecho para encantar la ubicación)"
+
+#: init.lua
+msgid "Enter teleport coords (e.g. 200,20,-200)"
+msgstr "Inserta las coordenadas del teletransporte (Por ejemplo, 200,20, -200)"
+
+#: init.lua
+msgid "Right-click to enchant teleport location"
+msgstr "Haga clic derecho para encantar la ubicación de teletransporte"
+
+#: init.lua
+msgid "Potion failed!"
+msgstr "¡Poción fallida!"
+
+#: init.lua
+msgid "Teleport Pad (place and right-click to enchant location)"
+msgstr "Teleport Pad (Colocalo y haz clic derecho para encantar la ubicación)"
+
+#: init.lua
+msgid "Enter teleport coords (e.g. 200,20,-200,Home)"
+msgstr "Inserte las coordenadas del teletransporte (por ejemplo, 200,20, -200, Inicio)"
+
+#: init.lua
+msgid "Teleport to @1"
+msgstr "Teletransportarse a @1"
+
+#: init.lua
+msgid "Pad Active (@1,@2,@3)"
+msgstr "Pad activo"
+
+#: init.lua
+msgid "Teleport Pad coordinates failed!"
+msgstr "¡Coordenadas del Teleport Pad erroneas!"

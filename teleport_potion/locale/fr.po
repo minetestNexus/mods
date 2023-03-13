@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 08:35+0200\n"
+"PO-Revision-Date: 2017-05-14 08:37+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: Peppy <peppy@twang-factory.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: init.lua
+msgid "Teleport Potion (place and right-click to enchant location)"
+msgstr "Potion de téléportation (poser puis clic-droit pour enchanter l'emplacement)"
+
+#: init.lua
+msgid "Enter teleport coords (e.g. 200,20,-200)"
+msgstr "Saisissez les coordonnées de téléportation  (ex : 200,20,-200)"
+
+#: init.lua
+msgid "Right-click to enchant teleport location"
+msgstr "Clic-droit pour enchanter l'emplacement de téléportation"
+
+#: init.lua
+msgid "Potion failed!"
+msgstr "La potion n'a pas fonctionné !"
+
+#: init.lua
+msgid "Teleport Pad (place and right-click to enchant location)"
+msgstr "Pad de téléportation (poser puis clic-droit pour enchanter l'emplacement)"
+
+#: init.lua
+msgid "Enter teleport coords (e.g. 200,20,-200,Home)"
+msgstr "Saisissez les coordonnées de téléportation  (ex : 200,20,-200,Maison)"
+
+#: init.lua
+msgid "Teleport to @1"
+msgstr "Téléportation vers @1"
+
+#: init.lua
+msgid "Pad Active (@1,@2,@3)"
+msgstr "Pad activé (@1,@,2,@3)"
+
+#: init.lua
+msgid "Teleport Pad coordinates failed!"
+msgstr "Les coordonnées du pad sont inchangées !"
