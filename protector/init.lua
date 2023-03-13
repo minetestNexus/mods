@@ -428,7 +428,10 @@ local check_overlap = function(itemstack, placer, pointed_thing)
 
 	local pos = pointed_thing.above
 	local name = placer:get_player_name()
-
+    	if pos.y < -500 or pos.y > 500 then 
+        	minetest.chat_send_player(name, "[Server] you can't build above or under 500 blocks, your currently at "..pos.y)
+		return itemstack
+    	end
 	-- make sure protector doesn't overlap onto protected spawn area
 	if inside_spawn(pos, protector_spawn + protector_radius) then
 
