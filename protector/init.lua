@@ -15,7 +15,7 @@ local S = minetest.get_translator and minetest.get_translator("protector") or
 		dofile(MP .. "/intllib.lua")
 
 -- Load support for factions
-local factions_available = minetest.global_exists("factions")
+local factions_available = false --minetest.global_exists("factions")
 
 protector = {
 	mod = "redo",
